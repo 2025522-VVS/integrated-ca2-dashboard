@@ -142,4 +142,4 @@ fig4.update_layout(font=dict(size=20), height=600)
 fig4.update_traces(textposition="outside")
 st.plotly_chart(fig4, use_container_width=True)
 
-st.success("This dashboard uses simple language, large text and clear charts to make Online Retail data easier to understand for older users.")a.")
+st.success("This dashboard uses simple language, large text and clear charts to make Online Retail data easier to understand for older users.")
